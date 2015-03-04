@@ -31,7 +31,7 @@
 
 
 
-<img class="full-width" data-src="assets/intro/escalation.jpg"></img>
+<div class="full" style="background-image:url(assets/intro/escalation.jpg)"></div>
 
 
 
